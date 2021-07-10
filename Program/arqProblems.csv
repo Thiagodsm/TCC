@@ -1,0 +1,3 @@
+Instance Constraints Debug LS Time(s) #Runs #Threads #n #m
+/CC/ionosphere.data	//mustcannotlinks/ionosphere1.txt 1 1 351 1 4 351 2
+/CC/iris.data //mustcannotlinks/iris1.txt 1 1 150 1 1 150 3
